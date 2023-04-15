@@ -1,4 +1,4 @@
-# hrdn
+# Project Internal Name: HASTYNIGHTHAWK
 Windows 10 Enterprise Hardening SOP
 
 
