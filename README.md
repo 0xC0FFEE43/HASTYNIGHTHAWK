@@ -1,4 +1,4 @@
-# Project Internal Name: HASTYNIGHTHAWK
+# Internal Project Name: HASTYNIGHTHAWK
 Windows 10 Enterprise Hardening SOP
 
 
